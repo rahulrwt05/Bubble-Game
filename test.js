@@ -7,7 +7,7 @@ let time = 60; // Initial time
 function makingbubbles() {
   var a = "";
   for (var i = 0; i <= 200; i++) {
-    var c = Math.floor(Math.random() * 30);
+    var c = Math.floor(Math.random() * 40);
     a += `<div class="bubble">${c}</div>`;
   }
   document.querySelector(".box2").innerHTML = a;
