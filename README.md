@@ -34,7 +34,7 @@ This project is built using the following technologies:
 
 ### Demo
 
-You can play the Bubble Game [here](https://rahulrwt05.github.io/bubbleGame/).
+You can play the Bubble Game [here](https://rahulrwt05.github.io/bubble-Game/).
 
 ### Screenshots
 
