@@ -2,6 +2,15 @@
 
 Welcome to the Bubble Game project! This project is a simple game where players pop bubbles before the timer runs out. Additionally, it demonstrates the concepts of event bubbling and event delegation in JavaScript DOM manipulation.
 
+## How to Play
+To play the Bubble Game:
+1. Click the "Start" button to begin the game.
+2. Bubbles will appear on the screen, each with a numeric value.
+3. Look for bubbles with the hit value displayed in the top bar.
+4. Click on bubbles with the matching hit value to earn points.
+5. The game ends when the timer reaches zero.
+6. Your final score will be displayed on the screen.
+
 ## Features
 
 - **Dynamic Bubbles:** Bubbles are dynamically generated on the screen, making each gameplay unique.
@@ -41,14 +50,7 @@ You can play the Bubble Game [here](https://rahulrwt05.github.io/bubble-Game/).
 ![Bubble Game](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/bubble_game.png)
 *Screenshot showcasing the Bubble Game project*
 
-## How to Play
-To play the Bubble Game:
-1. Click the "Start" button to begin the game.
-2. Bubbles will appear on the screen, each with a numeric value.
-3. Look for bubbles with the hit value displayed in the top bar.
-4. Click on bubbles with the matching hit value to earn points.
-5. The game ends when the timer reaches zero.
-6. Your final score will be displayed on the screen.
+
 
    
 ## Future Enhancements
