@@ -83,7 +83,7 @@ function start() {
   let colorIndex = 0;
   butt.addEventListener("click", function (e) {
     timer();
-    butt.textContent = "Do fast lol";
+    butt.textContent = "Do fast ";
     makingbubbles();
 
     getnewhit();
